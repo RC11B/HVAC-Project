@@ -5,7 +5,7 @@
 
 <hr>
 
-[Database Tables](PhysicalDatabaseTables/HVACSIERDpro6.png)
+[Database Tables](PhysicalDatabase/PhysicalDatabaseTables.md)
 
 <hr>
 
