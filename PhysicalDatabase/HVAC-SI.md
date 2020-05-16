@@ -5,7 +5,7 @@
 
 <hr>
 
-[Physical Design](PhysicalDatabase/HVACSIERDpro6.png)
+[Physical Design](PhysicalDatabaseTables/HVACSIERDpro6.png)
 
 <hr>
 
