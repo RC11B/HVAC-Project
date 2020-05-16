@@ -5,7 +5,7 @@
 
 <hr>
 
-[Database Tables](PhysicalDatabase/PhysicalDatabaseTables.md)
+[Database Tables](PhysicalDatabaseTables.md)
 
 <hr>
 
