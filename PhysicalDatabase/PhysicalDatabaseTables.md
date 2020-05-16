@@ -1,13 +1,12 @@
 # HVAC Systems Information
 
-## Physical Database Table
+## Physical Database
 
 ![Tables](https://github.com/RC11B/HVAC-Project/blob/master/PhysicalDatabase/HVAC%20SI%20ERD%20pro6.png)
 
-This is the underlying database design for the Vehicle Records Application.
-The Vehicle Records Application (VRA) will store a Users Vehicles, and all associated Records.
-These Records include Fillups, Insurance, Registration, and Maintenance / Repair Records.
-These Records are stored in different tables (Fillups, Insurance, Registration, and Maintenance).
+This is the database design for the HVAC Systems Information website.
+This website will allow technicians and installers easy access to all information about a certain system or piece of equipment.
+All this information is stored in tables labeled (Users, Manufacturers, Furnaces, Humidifiers, and AC)..
 
 <hr>
 
