@@ -7,10 +7,12 @@
 
 [Physical Design](PhysicalDesign.md)
 
+<hr>
 
 ## Database Implementation (SQL Script)
 
 ### Drop And Create Database
+```sql
 USE master;
 
 IF DB_ID(N'HVACSI') IS NOT NULL DROP DATABASE HVACSI;
@@ -26,3 +28,4 @@ GO
 
 CREATE SCHEMA SI AUTHORIZATION dbo;
 GO
+```
