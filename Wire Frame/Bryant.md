@@ -6,10 +6,10 @@ select a specific furnace, humidifier, or A/C unit.
 
 Each drop down arrow allows the user to select individual pieces of equipment.
 <br>
-[Furnace](HVAC-SI.md)
+[Furnace](BryantFurnaces.md)
 <br>
-[Humidifier](HVAC-SI.md)
+[Humidifier](BryantHumidifiers.md)
 <br>
-[A/C Unit](HVAC-SI.md)
+[A/C Unit](BryantAC-Units.md)
 <br>
 [Main](MainPage.md)
