@@ -1,3 +1,3 @@
-[](Wire Frame/pictures/Login.png)
-<img src="/WireFrame/pictures/Login.png">
+[image](https://github.com/RC11B/HVAC-Project/blob/master/Wire%20Frame/pictures/Login.png)
+
 [Database Tables](PhysicalDatabaseTables.md)
