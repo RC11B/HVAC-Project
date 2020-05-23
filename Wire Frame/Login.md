@@ -1,2 +1,2 @@
-[link text](Wire Frame/pictures/Login.png "stuff")
+[](Wire Frame/pictures/Login.png)
 [Database Tables](PhysicalDatabaseTables.md)
