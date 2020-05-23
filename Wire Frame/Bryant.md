@@ -12,3 +12,4 @@ Each drop down arrow allows the user to select individual pieces of equipment.
 <br>
 [A/C Unit](HVAC-SI.md)
 <br>
+[Main](MainPage.md)
