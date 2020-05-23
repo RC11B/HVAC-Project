@@ -6,4 +6,4 @@ Or press the login button once all login fields are filled in, to go to the main
 
 When the sign up button is pressed the user is sent to the [Sign Up](SignUp.md) page.
 <br>
-When the [Login](SignUp.md) button is pressed the 
+When the [Login](MainPage.md) button is pressed the user will be sent to the main page.
