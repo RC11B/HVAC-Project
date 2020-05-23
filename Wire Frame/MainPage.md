@@ -7,7 +7,7 @@ brand page.
 
 Each brand name i.e. (Bryant) is a link to that brand's page.
 <br>
-[Bryant](HVAC-SI.md)
+[Bryant](Bryant.md)
 <br>
 [Carrier](HVAC-SI.md)
 <br>
